@@ -34,7 +34,6 @@ RUN set -ex; \
 	obs-studio \
 	chromium-browser \
 	firefox \
-	firefox-esr  \
         terminator \
         htop \
         gnupg2 \
